@@ -1,6 +1,6 @@
 # Detection-Lab
 
-# PROJECTNAME
+# MY DETECTION LAB
 
 ## Objective
 
